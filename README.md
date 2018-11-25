@@ -10,12 +10,10 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/PARSTURK/Toshinou-Forever.svg?label=Watch&style=social)](https://github.com/PARSTURK/Toshinou-Forever)
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/PARSTURK/Toshinou-Forever/total.svg)](https://github.com/PARSTURK/Toshinou-Forever)
-[![GitHub latest](https://img.shields.io/github/downloads/PARSTURK/Toshinou-Forever/latest/total.svg)](https://github.com/PARSTURK/Toshinou-Forever)
-[![GitHub Releases (by Release)](https://img.shields.io/github/downloads/PARSTURK/Toshinou-Forever/V0.1/total.svg)](https://github.com/PARSTURK/Toshinou-Forever/tree/V0.1)
 
 [![GitHub issues](https://img.shields.io/github/issues/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever/issues)
-[![GitHub issues](https://img.shields.io/github/issues-raw/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
+[![GitHub issues](https://img.shields.io/github/issues-raw/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever/issues?q=is%3Aissue+is%3Aclosed)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
 [![GitHub Releases](https://img.shields.io/github/release/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
