@@ -1,0 +1,371 @@
+﻿{
+  "toshidescription": {
+    "message": "Şu ana kadar Darkorbit için yapılmış en iyi botlardan bir tanesidir.",
+    "description": "Toshinou Bot Açıklaması"
+  },
+  "desextension": {
+    "message": "Freshek tarafından kodlanmıştır.",
+    "description": "Toshinou Bot Eklenti Açıklaması"
+  },
+  "appearance": {
+    "message": "Görünüm"
+  },
+  "donwloadprofile": {
+    "message": "Ayarları İndir"
+  },
+  "translateby": {
+    "message": "",
+    "description": "Toshinou Bot Eklenti Açıklaması"
+  },
+  "discordserver": {
+    "message": "Discord Sunucu Adresi"
+  },
+  "saveall": {
+    "message": "KAYDET"
+  },
+  "headercolor": {
+    "message": "Başlık Rengi"
+  },
+  "opacity": {
+    "message": "Saydamlık"
+  },
+  "windowbackgroundcolor": {
+    "message": "Pencere Arkaplan Rengi"
+  },
+  "statisticwindow": {
+    "message": "İstatistik Penceresi"
+  },
+  "windowstotabs": {
+    "message": "Pencere Halinde Göster"
+  },
+  "showruntime": {
+    "message": "Çalışma Süresini Göster"
+  },
+  "speedformat": {
+    "message": "Zaman"
+  },
+  "hour": {
+    "message": "Saat"
+  },
+  "min": {
+    "message": "Dakika"
+  },
+  "deltaoptions": {
+    "message": "Delta Özelliklerini Aktif Et. Bazılarında Problem Olabilir."
+  },
+  "palladiumlogic": {
+    "message": "Palladium botu (Sadece Delta Özelliği Açıksa Çalışır.)"
+  },
+  "shipconfigs": {
+    "message": "Gemi Konfi Ayarı"
+  },
+  "attackconfig": {
+    "message": "Saldırı Konfisi:"
+  },
+  "flyingconfig": {
+    "message": "Uçuş Konfisi:"
+  },
+  "advanced": {
+    "message": "Gelişmiş Ayar(Kesinlikle Dokunmayın!)"
+  },
+  "logictick": {
+    "message": "Zamanlayıcı(ms)"
+  },
+  "refreshsettings": {
+    "message": "Sayfa Yenile Özellikleri"
+  },
+  "enablerefresh": {
+    "message": "Sayfa Yenileme Özelliği"
+  },
+  "refreshtime": {
+    "message": "Yenileme Aralığı (Dakika)"
+  },
+  "enablenpcblocklist": {
+    "message": "Kestirmeyeceğin NPC's Tekrar Ayarla"
+  },
+  "refreshtoreconnect": {
+    "message": "Bağlantı Sorunu Olduğu Zaman Sayfayı Yenile"
+  },
+  "clearsettings": {
+    "message": "Uygulanmış Ayarları Temizle (Özelliği Yenile)"
+  },
+  "reviveat": {
+    "message": "Doğuş Yeri"
+  },
+  "base": {
+    "message": "Ana Üs"
+  },
+  "gate": {
+    "message": "Kapı"
+  },
+  "spot": {
+    "message": "Olay Yeri"
+  },
+  "norevive": {
+    "message": "Canlanma"
+  },
+  "revivelimit": {
+    "message": "Canlanma Limiti"
+  },
+  "workmap": {
+    "message": "Harita Seç"
+  },
+  "any": {
+    "message": "Herhangi"
+  },
+  "onlyworkdelta": {
+    "message": "(Sadece Delta  Açıksa Çalışır)"
+  },
+  "boxsettings": {
+    "message": "Kutu Ayarları"
+  },
+  "bonusbox": {
+    "message": "Avantaj Kutusu"
+  },
+  "materials": {
+    "message": "Materyaller"
+  },
+  "cargobox": {
+    "message": "Kargo Kutuları"
+  },
+  "greenorgoldbooty": {
+    "message": "Yeşil / Altın Korsan Kutusu"
+  },
+  "redbooty": {
+    "message": "Kırmızı Korsan Kutusu"
+  },
+  "bluebooty": {
+    "message": "Mavi Korsan Kutusu"
+  },
+  "masquebooty": {
+    "message": "Apocalypse / Siyah Ganimet Kutusu"
+  },
+  "collectboxwhencircle": {
+    "message": "Daire Çizerken Materyal ve Kutu Topla"
+  },
+  "target": {
+    "message": "Hedef: "
+  },
+  "hp": {
+    "message": "Can: "
+  },
+  "shd": {
+    "message": "Kalkan: "
+  },
+  "palladiumbot": {
+    "message": "Palladium Bot"
+  },
+  "moverandomly": {
+    "message": "Rastgele Hareket Et"
+  },
+  "killnpcs": {
+    "message": "NPC Kes"
+  },
+  "fleefromenemy": {
+    "message": "Düşmandan Kaç"
+  },
+  "avoidattackednpc": {
+    "message": "Hasar Almamış NPC's Saldır (PET Kullanmayın)"
+  },
+  "circle": {
+    "message": "Daire"
+  },
+  "circleradius": {
+    "message": "Mesafe<span> (500)</span>"
+  },
+  "dontcirclewhenhp": {
+    "message": "Can 25% Olunca Daire Çizme"
+  },
+  "repairwhenhp": {
+    "message": "Can <span>10%</span> Olunca Tamir Ol"
+  },
+  "jumpandreturn": {
+    "message": "Atla ve Geri Dön"
+  },
+  "autochangeconfig": {
+    "message": "Aktif Et"
+  },
+  "dodgethecbs": {
+    "message": "Savaş İstasyonuna Yaklaşmaz"
+  },
+  "resettarget": {
+    "message": "Can < 25% Hedefi Sıfırla"
+  },
+  "savesettingsandenable": {
+    "message": "Ayarları Kaydet ve Değişiklikleri Onayla"
+  },
+  "attackdetails": {
+    "message": "Saldırı Detayları"
+  },
+  "general": {
+    "message": "Genel Ayarlar"
+  },
+  "gghelper": {
+    "message": "GG Yardımcısı"
+  },
+  "ggbot": {
+    "message": "GG Bot"
+  },
+  "jumpin": {
+    "message": "İçeri Atla"
+  },
+  "minimap": {
+    "message": "Mini Harita"
+  },
+  "excludenpcto": {
+    "message": "Hariç Tutulacak NPC Listesi"
+  },
+  "statistic": {
+    "message": "İstatistikler"
+  },
+  "startat": {
+    "message": "Başlama: "
+  },
+  "credits": {
+    "message": "Krediler: "
+  },
+  "uridium": {
+    "message": "Uridium: "
+  },
+  "ggenergy": {
+    "message": "GG Enerjisi: "
+  },
+  "ammo": {
+    "message": "Cephane: "
+  },
+  "experiencie": {
+    "message": "Tecrübe Puanı: "
+  },
+  "honor": {
+    "message": "Şeref Puanı: "
+  },
+  "rank": {
+    "message": "RÜtbe Puanı: "
+  },
+  "death": {
+    "message": "Toplam Patlama: "
+  },
+  "speed": {
+    "message": "Hız: "
+  },
+  "runtime": {
+    "message": "Çalışma Süresi: "
+  },
+  "reset": {
+    "message": "Sıfırla"
+  },
+  "shipsettings": {
+    "message": "Gemi Ayarları"
+  },
+  "changedroneformation": {
+    "message": "Aktif Et"
+  },
+  "attackformationslot": {
+    "message": "Saldırı Uçuş Düzeni"
+  },
+  "flyingformationslot": {
+    "message": "Hedef Uçuş Düzeni"
+  },
+  "droneformations": {
+    "message": "Droid Uçuş Düzeni"
+  },
+  "shiphability": {
+    "message": "Gemi Yeteneği"
+  },
+  "usehability": {
+    "message": "Yeteneği Aktif Et"
+  },
+  "habilityslot": {
+    "message": "Hability Slot"
+  },
+  "refreshsettings": {
+    "message": "Ayarları Sıfırla"
+  },
+  "slotsAmmunition": {
+    "message": "Saldırı Konfi Ayarları"
+  },
+  "autochangeammunition": {
+    "message": "Otomatik Lazer Değişimi"
+  },
+  "piratebot": {
+    "message": "5-2 Korsan Bot Sol Kapı"
+  },
+  "cubibot": {
+    "message": "Protegit Bot"
+  },
+  "gatestonpc": {
+    "message": "NPC's Kapıya Çekip Kes"
+  },
+    "x1Slot": {
+        "message": "Slot x1"
+    },
+    "x2Slot": {
+        "message": "Slot x2"
+    },
+    "x3Slot": {
+        "message": "Slot x3"
+    },
+    "x4Slot": {
+        "message": "Slot x4"
+    },
+    "SABSlot": {
+        "message": "Slot SAB"
+    },
+    "npcname": {
+        "message": "NPC İsimleri"
+    },
+    "npcrange": {
+        "message": "Masafe"
+    },
+    "npcammo": {
+        "message": "Lazer"
+    },
+    "npcpriority": {
+        "message": "Öncelik"
+    },
+    "piratebotsag": {
+        "message": "5-2 Korsan Bot Sağ Kapı"
+    },
+    "npclist": {
+        "message": "NPC Listesi"
+    },
+    "generalsettings": {
+        "message": "Genel Ayarlar"
+    },
+    "stopafterxminutes": {
+        "message": "X Dakika Durdur"
+    },
+    "waitafterRepair": {
+        "message": "X Dakika Çalıştır"
+    },
+    "loadSettings": {
+        "message": "Ayarları Yükle"
+    },
+    "sentinelmode": {
+        "message": "Sentinel Mod"
+    },
+    "escapeConfig": {
+        "message": "Kaçış Konfisi"
+    },
+    "escapeFormation": {
+        "message": "Droit Kaçış Düzeni"
+    },
+    "respondPlayerAttacks": {
+        "message": "Oyuncuya Karşılık Ver"
+    },
+    "playerAmmo": {
+        "message": "Lazer Seç"
+    },
+    "sentinelexp": {
+        "message": "Sentinel ID - Ana Gemi"
+    },
+    "defendSentinel": {
+        "message": "Sentinel Gemi Savunması"
+    },
+    "useCBSZoneSegure": {
+        "message": "Müttefik Savaş İstasyonunda Tamir Ol"
+    },
+    "groupNecesary": {
+        "message": "Aynı Grupta Olmanız Lazım"
+    }
+}

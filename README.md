@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://github.com/PARSTURK/Toshinou-Forever/archive/master.zip">
-    <img src="https://cdn.discordapp.com/icons/480800367093874688/b6b5f1400230b5257680ce12a3692dc6.png"/>
+    <img src="https://cdn.discordapp.com/attachments/452499849796124683/516342597128683545/Toshinou-logo-128x128.png"/>
     <br/>
     </a>
   <span style="color: grey !important;">A tool/bot for a browser flash game named DarkOrbit.</span>
