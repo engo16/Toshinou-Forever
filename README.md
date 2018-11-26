@@ -17,7 +17,6 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
 [![GitHub Releases](https://img.shields.io/github/release/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
-[![GitHub commits (since latest release)](https://img.shields.io/github/commits-since/PARSTURK/Toshinou-Forever/latest.svg)](https://github.com/PARSTURK/Toshinou-Forever)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
 [![GitHub top language](https://img.shields.io/github/languages/top/PARSTURK/Toshinou-Forever.svg)](https://github.com/PARSTURK/Toshinou-Forever)
 
