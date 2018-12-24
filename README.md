@@ -55,7 +55,7 @@ For more information join the [Discord!](https://discord.gg/W55bJkB)
 > 
 > The information is not guaranteed to be correct, complete or current. 
 > 
-> The author (Alexandro Luongo) makes no warranty (expressed or implied) about the accuracy or reliability of the information at this repository or at any other website to which it is linked.
+> The author (PARS TURK) makes no warranty (expressed or implied) about the accuracy or reliability of the information at this repository or at any other website to which it is linked.
 <br />
 
 ## How To Use?
